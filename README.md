@@ -1,6 +1,8 @@
 nodemcu-ds18b20-mqtt
 ======================
 
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](LICENSE.md)
+
 Simple example on how to stream DS18B20 temperature readings to a MQTT broker.
 I am using [Node-RED](nodered.org) to forward the values, e.g. to a ThingSpeak account.
 
